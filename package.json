@@ -1,0 +1,11 @@
+{
+    "name": "technical-interview-ivory",
+    "version": "1.0.0",
+    "description": "A Node.js app used as an example for the technical interview at Ivory",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo 'Nenhum teste configurado ainda, mas passando!' && exit 0"
+    },
+    "author": "Mateus Cabral"
+}
