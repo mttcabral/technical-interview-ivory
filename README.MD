@@ -1,6 +1,6 @@
-This repository contains the submission for the ****IVORY DevOps Internship technical test****.
+This repository contains the submission for the **IVORY DevOps Internship technical test**.
 
-The main goal of this project was to provision an environment and build a complete ****CI/CD pipeline**** to automate the testing and deployment of a static website.
+The main goal of this project was to provision an environment and build a complete **CI/CD pipeline** to automate the testing and deployment of a static website.
 
 ## Pipeline and Technology Stack
 
@@ -20,4 +20,5 @@ The repository follows the branching model specified in the test requirements:
 ** `feature/*`: Temporary branches for developing new features before merging into `develop`.
 
 The flow usually looks like this: `feature` -> `develop` -> `homolog` -> `main`.
+
 
